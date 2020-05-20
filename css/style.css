@@ -44,3 +44,11 @@
   border-bottom: 1px solid #ddd;
   padding: 10px;
 }
+
+.btn-block {
+  color: white;
+}
+
+.login {
+  cursor: pointer;
+}
