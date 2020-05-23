@@ -91,3 +91,17 @@ body {
 .carousel-indicators {
   cursor: pointer;
 }
+
+.modal-content {
+  .modal-header {
+    background-color: $background-dark;
+    color: floralwhite;
+    button {
+      color: floralwhite;
+    }
+  }
+
+  .modal-body {
+    background-color: $background-pale;
+  }
+}
